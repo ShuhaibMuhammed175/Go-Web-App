@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: shuhaibmuhammad/go-web-app
   pullPolicy: IfNotPresent
-  tag: "34765068020"
+  tag: "34765590321"
 
 ingress:
   enabled: false
